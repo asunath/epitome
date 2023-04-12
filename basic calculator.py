@@ -1,5 +1,3 @@
-
-     
 x=input("enter operands seperated with space:")
 y=input("enter the operations :")
 num1=int(x[0])
